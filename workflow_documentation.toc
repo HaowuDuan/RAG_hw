@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {1}System Overview}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}System Architecture}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Workflow Description}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Phase 1: Document Processing}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}PDF Processing}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Image Processing Workflow}{3}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Phase 2: Search and Retrieval}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Hybrid Search Implementation}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Search Workflow}{3}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Phase 3: Reranking}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Test Examples and Terminal Outputs}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}System Setup and Initialization}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Environment Setup}{5}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Index Creation}{5}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Document Processing Test}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}PDF Processing}{5}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Text Search Test}{6}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Interactive Text Search}{6}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}Image Search Test}{7}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Interactive Image Search}{7}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.5}Embedding Service Test}{8}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Testing Embedding Generation}{8}{subsubsection.3.5.1}%
+\contentsline {section}{\numberline {4}System Configuration}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Service Endpoints}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Index Configuration}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Performance Metrics}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Processing Statistics}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Search Quality Metrics}{9}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Error Handling and Troubleshooting}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Common Issues and Solutions}{9}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Conclusion}{10}{section.7}%
